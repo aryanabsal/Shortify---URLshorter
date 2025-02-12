@@ -25,10 +25,3 @@ Shortify shortens long URLs and acts as a bridge to your destination.
    ```bash
    python manage.py runserver
    ```
-
-## Usage
-- Enter a URL to get a short link.
-- Use the admin panel for management.
-
-## License
-**MIT License**
