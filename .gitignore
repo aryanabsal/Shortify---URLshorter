@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+.env
+.vscode/
+.idea/
+*.swp
+*.sqlite3
+logs/
+*.log
+config/settings_local.py
